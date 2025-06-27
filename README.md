@@ -11,8 +11,8 @@
   </a>
 
   <!-- Gmail with link -->
-  <!-- Gmail - mailto works -->
-  <a href="kamel65667@gmail.com">
+  
+  <a href="mailto:kamel65667@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kamel.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
   </a>
 
