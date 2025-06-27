@@ -11,9 +11,8 @@
   </a>
 
   <!-- Gmail with link -->
-  
   <a href="mailto:kamel65667@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kamel.data@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
 
   <!-- YouTube -->
