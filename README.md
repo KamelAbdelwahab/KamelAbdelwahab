@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mjg3OG0yZ2FrdWY1bWxiNzF3NDR6bTF2bjJubGlycGNrcXE4c281bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JkVnfE54QdOMQBxmHg/giphy.gif
+    <img src="https://media3.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif" height="150" alt="Data GIF" />
 </div>
 
 ###
