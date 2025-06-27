@@ -41,17 +41,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
   <img width="12" />
 
-  <!-- Power BI (from official style guide via icons8) -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI Logo" />
+  <!-- Power BI (official from Wikimedia) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI Logo" />
   <img width="12" />
 
-  <!-- Excel (official 2019+ icon) -->
+  <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel Logo" />
   <img width="12" />
 
-  <!-- SQL (generic database SQL icon) -->
+  <!-- SQL -->
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" height="40" alt="SQL Logo" />
 </div>
+
 
 
 ###
