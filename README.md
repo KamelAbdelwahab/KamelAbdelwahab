@@ -50,6 +50,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI Logo" />
   <img width="12" />
 
+  <!-- 🧩 Power BI Service -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI Logo" />
+  <p><b>Power BI Service</b></p>
+  
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel Logo" />
   <img width="12" />
