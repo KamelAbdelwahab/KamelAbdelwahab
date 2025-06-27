@@ -30,28 +30,29 @@
 
 <div align="left">
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL Logo" />
   <img width="12" />
 
   <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio Logo" />
   <img width="12" />
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
   <img width="12" />
 
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="power bi logo" />
+  <!-- Power BI (from official style guide via icons8) -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI Logo" />
   <img width="12" />
 
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
+  <!-- Excel (official 2019+ icon) -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel Logo" />
   <img width="12" />
 
-  <!-- SQL (رمز عام وليس MySQL) -->
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" height="40" alt="sql logo" />
+  <!-- SQL (generic database SQL icon) -->
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" height="40" alt="SQL Logo" />
 </div>
+
 
 ###
 
